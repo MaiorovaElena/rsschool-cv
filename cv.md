@@ -35,4 +35,50 @@
 - Git
 - Figma
 
+### Code example:
 
+#### Moving Zeros To The End
+###### KATA from CodeWars
+
+<p>DESCRIPTION:</p>
+<p><em>Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.</em></p>
+<p>moveZeros([false,1,0,1,2,0,1,3,"a"]) // returns[false,1,1,2,1,3,"a",0,0]</p>
+
+
+> My decision:
+>function moveZeros(arr) {
+>  let arr_w0 = arr.filter(x => x !== 0);
+>  return arr_w0.concat(new Array(arr.length - arr_w0.length).fill(0));
+>}
+
+#### Experience
+
+team projects:
+
+<a href="https://github.com/MaiorovaElena/workshop-Nikason">https://github.com/MaiorovaElena/workshop-Nikason</a>
+<a href="https://github.com/MaiorovaElena/bio-cwt">https://github.com/MaiorovaElena/bio-cwt</a>
+<a href="https://github.com/MaiorovaElena/cinema-space">https://github.com/MaiorovaElena/cinema-space</a>
+
+pet projects in progress
+
+---
+
+#### Education
+
+Сourses
+<ul>
+  <li type="circle">ITGirls</li>
+  <li type="circle">RS School (now)</li>
+</ul>
+
+Higher education
+<ul>
+  <li type="circle">Moscow State University of Medicine and Dentistry;  Faculty of Dentistry</li>
+</ul>
+
+
+#### Languages
+
+**Russian** - native
+
+**English** - A2
