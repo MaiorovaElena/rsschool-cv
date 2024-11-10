@@ -61,3 +61,23 @@ team projects:
 pet projects in progress
 
 ---
+
+#### Education
+
+Сourses
+<ul>
+  <li type="circle">ITGirls</li>
+  <li type="circle">RS School (now)</li>
+</ul>
+
+Higher education
+<ul>
+  <li type="circle">Moscow State University of Medicine and Dentistry;  Faculty of Dentistry</li>
+</ul>
+
+
+#### Languages
+
+**Russian** - native
+
+**English** - A2
